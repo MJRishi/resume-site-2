@@ -113,7 +113,16 @@ figure {
   -o-transition: 0.5s;
   transition: 0.5s; 
 }
+
+#career-desc{
+  font-size : 15px;
+}
+
   @media screen and (max-width: 768px) {
+    #career-desc{
+      font-size: 10px;
+    }
+    
     #colorlib-aside {
       width: 300px;
       -moz-transform: translateX(-300px);
