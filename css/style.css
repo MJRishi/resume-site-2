@@ -1194,3 +1194,9 @@ th {
     width: 100px; 
   }
 }
+
+#abt-intro{
+  margin-top: 3em;
+  font-size: 0.9em;
+  text-shadow: 0 0 5px #fff, 0 0 15px #d4d4d4;
+}
